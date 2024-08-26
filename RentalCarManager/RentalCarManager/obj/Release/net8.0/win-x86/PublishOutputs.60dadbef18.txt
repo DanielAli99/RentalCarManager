@@ -1,0 +1,3 @@
+C:\Users\danie\source\repos\RentalCarManager\RentalCarManager\bin\Release\net8.0\win-x86\app.publish\RentalCarManager.pdb
+C:\Users\danie\source\repos\RentalCarManager\RentalCarManager\bin\Release\net8.0\win-x86\app.publish\e_sqlite3.dll
+C:\Users\danie\source\repos\RentalCarManager\RentalCarManager\bin\Release\net8.0\win-x86\app.publish\RentalCarManager.exe
